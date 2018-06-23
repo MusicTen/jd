@@ -187,7 +187,7 @@
       points.forEach(function( v, i ) {
         v.classList.remove("current");
       })
-      console.log(now)
+      //console.log(now)
       points[now].classList.add("current");
     }
     function showPrev(){
@@ -257,7 +257,7 @@
     })
     window.addEventListener('resize',function(){
       width = lis[0].offsetWidth;
-      ul.style.height = lis[0].offsetHeight;
+      ul.style.height = lis[0].offsetHeight + "px";
       // 需要根据三个位置的索引, 设置三张图片的位置, 不需要动画
       lis[prev].style.transition = "none";
       lis[now].style.transition = "none";
