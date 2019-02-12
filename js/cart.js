@@ -42,7 +42,7 @@
 })();
 
 
-//功能1:垃圾桶动画
+//功能2:垃圾桶动画
 ;(function(){
   var deleteBoxs = document.querySelectorAll(".delete");
   var jd_modal = document.querySelector('.jd_modal');
