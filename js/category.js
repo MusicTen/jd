@@ -1,4 +1,4 @@
-//左侧区域滚动
+// 左侧区域滚动
 ;(function(){
   var ul = document.querySelector(".jd_content_left ul");
   var jd_content_left = document.querySelector(".jd_content_left");
@@ -28,7 +28,7 @@
     ul.style.transform = "translateY("+ current+"px)";
   })
 })()
-//右侧区域滚动
+// 右侧区域滚动
 /*
 * iScroll使用注意事项
 * 1. 必须要有很长的子元素, 要有一个有宽高的父容器

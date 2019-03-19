@@ -2,11 +2,12 @@
 
 #### 一、目录
 
-index.html
+- index.html
 
-category.html
+- category.html
 
-cart.html
+- cart.html
+
 
 #### 二、技术
 
@@ -48,5 +49,6 @@ iScroll使用注意事项:
 #### 三、效果
 
 | ![](./images/thumbnail/index.png) | ![](./images/thumbnail/category.png) |
-| ![](./images/thumbnail/cart1.png) | ![](./images/thumbnail/cart2.png) |
+| --------------------------------- | ------------------------------------ |
+| ![](./images/thumbnail/cart1.png) | ![](./images/thumbnail/cart2.png)    |
 

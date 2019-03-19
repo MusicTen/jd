@@ -1,4 +1,4 @@
-//功能1:全选反选
+// 功能1:全选反选
 ;(function(){
   var checkbox = document.querySelectorAll(".jd_checkbox");
   var title_checkbox = document.querySelector(".goods_title .jd_checkbox");
@@ -42,7 +42,7 @@
 })();
 
 
-//功能2:垃圾桶动画
+// 功能2:垃圾桶动画
 ;(function(){
   var deleteBoxs = document.querySelectorAll(".delete");
   var jd_modal = document.querySelector('.jd_modal');

@@ -75,11 +75,11 @@ html,body {
   display: block;
   line-height: 50px;
   text-align: center;
-  background-color: palegreen;
-  border-right: 1px solid hotpink;
-  border-bottom: 1px solid hotpink;
+  background-color: #fff;
+  border-right: 1px solid pink;
+  border-bottom: 1px solid pink;
 }
-.jd_content_left ul li a.current{
+.jd_content_left ul li a.current {
   background-color: #f7f7f7;
   border-right: none;
   color: red;

@@ -1,4 +1,4 @@
-//头部滚动透明度改变
+// 头部滚动透明度改变
 ;(function(){
   var header = document.querySelector('.jd_header');
   window.addEventListener("scroll",function(){
@@ -14,7 +14,7 @@
   });
 })();
 
-//动态获取秒杀商品个数,设置其ul宽
+// 动态获取秒杀商品个数,设置其ul宽
 ;(function(){
   var ul = document.querySelector('.jd_seckill .main ul')
   var lis = document.querySelectorAll('.jd_seckill .main ul li');
@@ -271,7 +271,7 @@
   })
 })()
 
-//秒杀倒计时
+// 秒杀倒计时
 ;(function(){
   var spans = document.querySelectorAll('.jd_seckill .time span');
   var skTime = new Date('2018/6/22 12:00:00')
@@ -299,7 +299,7 @@
   };
 })()
 
-//京东快报
+// 京东快报
 ;(function(){
   var ul = document.querySelector('.jd_news ul');
   var lis = ul.children;
