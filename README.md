@@ -48,7 +48,7 @@ iScroll使用注意事项:
 
 #### 三、效果
 
-| ![](./images/thumbnail/index.png) | ![](./images/thumbnail/category.png) |
+| ![](./images/thumbnail/index.png) | ![](./images/thumbnail/category.jpg) |
 | --------------------------------- | ------------------------------------ |
 | ![](./images/thumbnail/cart1.png) | ![](./images/thumbnail/cart2.png)    |
 
