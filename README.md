@@ -47,17 +47,6 @@ iScroll使用注意事项:
 
 #### 三、效果
 
-##### 首页
-
-##### ![](./images/thumbnail/index.png)
-
-##### 分类页
-
-##### ![](./images/thumbnail/category.png)
-
-##### 购物车
-
-![](./images/thumbnail/cart1.png)
-
-![](./images/thumbnail/cart2.png)
+| ![](./images/thumbnail/index.png) | ![](./images/thumbnail/category.png) |
+| ![](./images/thumbnail/cart1.png) | ![](./images/thumbnail/cart2.png) |
 
